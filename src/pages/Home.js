@@ -1,4 +1,3 @@
-import { HomeIcon } from "@heroicons/react/20/solid";
 import Navbar from "../features/navbar/Navbar";
 import ProductList from "../features/product-list/ProductList";
 
